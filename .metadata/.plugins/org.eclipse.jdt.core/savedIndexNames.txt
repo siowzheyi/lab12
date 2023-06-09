@@ -1,0 +1,4 @@
+INDEX VERSION 1.132+C:\Micole\degree Sem 3\DAD\lab12\.metadata\.plugins\org.eclipse.jdt.core
+3164168484.index
+1865797976.index
+945146429.index
